@@ -30,7 +30,6 @@ avatar:
 # AboutPage background, support multiple images.
 about_big_image: [images/storm.png]
 
-
 # Homepage thumbnail
 random_thumb: false
 
